@@ -1,1 +1,0 @@
-"# Mipt_1-sem"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Nuklier/Mipt_1-sem.gitgit push -u origin main
